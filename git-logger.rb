@@ -5,9 +5,9 @@ require 'formula'
 
 class GitLogger < ScriptFileFormula
   homepage 'https://github.com/sdlab-naist/git-logger'
-  url 'https://github.com/sdlab-naist/git-logger/tarball/0.0.2'
-  sha1 '4e14371ffbe3321cc4a774a1e451b5484cd71f94'
-  version '0.0.2'
+  url 'https://github.com/sdlab-naist/git-logger/tarball/0.0.3'
+  sha1 '473c622f353ff797b4d3120fe7d76d52a457e10b'
+  version '0.0.3'
 
   depends_on 'findutils'
 
